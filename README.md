@@ -1,6 +1,6 @@
 <h2>😺 Olá!</h2>
 
-Me chamo Rosael Victor, natural de Recife/PE. 
+Me chamo Rosael Victor. 
 
 Sou desenvolvedor web full-stack e também desenvolvo jogos utilizando a Godot Engine.
 
