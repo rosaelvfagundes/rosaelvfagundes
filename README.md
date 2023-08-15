@@ -13,7 +13,7 @@ Atualmente estudo Desenvolvimento Web Full-Stack na Trybe e sou aluno no curso T
 
 <h3>😸 Vamos nos conectar!!!</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rosael-fagundes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosael-fagundes)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/rosaelfagundes)
 
 <h3>🛠️ Ferramentas as quais me dedico:</h3>
