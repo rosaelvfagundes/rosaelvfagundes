@@ -6,11 +6,6 @@ Sou desenvolvedor web full-stack e também desenvolvo jogos utilizando a Godot E
 
 Atualmente estudo Desenvolvimento Web Full-Stack na Trybe e sou aluno no curso Tecnólogo em Jogos Digitais no Centro Educacional UNIS-EAD.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosaelvfagundes&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosaelvfagundes&layout=compact&theme=tokyonight"/>
-</div>
-
 <h3>😸 Vamos nos conectar!!!</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosael-fagundes)
