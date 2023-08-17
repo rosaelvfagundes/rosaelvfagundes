@@ -27,7 +27,5 @@ Atualmente estudo Desenvolvimento Web Full-Stack na Trybe e sou aluno no curso T
   <img align="center" alt="logo-react-native" width="64" height="64" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
   <img align="center" alt="logo-node-js" width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="logo-nest-js" width="64" height="64" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg">
-  <img align="center" alt="logo-c-sharp" width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="logo-dot-net" width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
   <img align="center" alt="logo-godot" width="64" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
 </div>
